@@ -96,14 +96,16 @@ Features Matching and Precise image selector Function
 </p>
 
 # Dataset
-The project utilizes a meticulously curated dataset of 60,000 unique fashion product images and their corresponding descriptions to train the model.This images are lebelled with multiple attributes which provides its description in the form of metadata.
+<p align='justify'>
+The project utilizes a meticulously curated dataset of 60,000 unique fashion product images and their corresponding descriptions to train the model.This images are lebelled with multiple attributes which provides its description in the form of metadata.This Metadata is embedded into term frequency-inverse document frequency.
+</p>
 
 ### Metadata
 <p align="center" >
     <img src="https://github.com/user-attachments/assets/d8ec068d-b29c-4ba0-94f3-98726a6608af" height="300px" width="600px">
 </p>
 <p align="center" >
-    <img src="https://github.com/user-attachments/assets/003e671f-6772-474f-8ba5-06fef10e20ba" height="300px" width="600px">
+    <img src="https://github.com/user-attachments/assets/003e671f-6772-474f-8ba5-06fef10e20ba">
 </p>
 
 ### Image data
