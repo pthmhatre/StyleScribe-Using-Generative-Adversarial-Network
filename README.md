@@ -110,3 +110,5 @@ The project utilizes a meticulously curated dataset of 60,000 unique fashion pro
 <p align="center" >
     <img src="https://github.com/user-attachments/assets/0444c4f7-76fe-4be3-a4b0-b2649d22d3f5" height="300px" width="600px">
 </p>
+
+# Results and UI Design 
