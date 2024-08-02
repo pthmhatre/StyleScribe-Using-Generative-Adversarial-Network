@@ -118,9 +118,8 @@ The project utilizes a meticulously curated dataset of 60,000 unique fashion pro
 <img src="https://github.com/user-attachments/assets/89703a8d-83e7-4728-90ec-9883d731efe6">
 <img src="https://github.com/user-attachments/assets/faa687a4-5208-44ed-9adf-630fc62bb1bd">
 <img src="https://github.com/user-attachments/assets/8785c08e-a34b-4ff0-8efa-5ce794bae653">
-<img src="https://github.com/user-attachments/assets/3c6bc1f3-67b8-4883-9885-b3f74af4d2b8">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/user-attachments/assets/75d8015d-55d7-4dda-8f29-6f22420ec4b1">
+<img src="https://github.com/user-attachments/assets/9f4be771-d106-4834-89fb-3d70b528fa62">
+<img src="https://github.com/user-attachments/assets/7a3d70ac-7001-446e-9a31-03977c57b8ed">
 
 </p>
