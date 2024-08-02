@@ -79,11 +79,11 @@ it on screen.
 <div align="justify">
 In DFD level 1 the user uses his smartphone or tablet to open the application andgive the text input using text field on UI.
 The input then is used to first understand the meaning of the input text and extract the features. Once the features are extracted the image generation process starts and the image is generated pixel by pixel.</div>
-
-
 <p align="center" >
-    <img src="https://github.com/user-attachments/assets/547a4fc3-597e-4252-a77d-85ffd837fbae" height="300px" width="600px">
+    <img src="https://github.com/user-attachments/assets/fc0e437f-345e-4cc9-b820-9c2cd0b73543" height="300px" width="600px">
 </p>
+
+### DFD:Level 2
 
 
 
